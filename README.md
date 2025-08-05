@@ -4,17 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Strategic Data Analyst and SQL/Power BI Developer with a strong ability to translate complex data into clear, actionable 
-insights that improve business performance. Skilled in designing and deploying interactive dashboards using Power BI, 
-DAX, and SQL across the Microsoft data ecosystem (SSMS, SSIS, SSRS, SSAS). Experienced in developing efficient 
-ETL workflows, ensuring data accuracy, and supporting data initiatives that align with organizational goals. Combines 
-technical expertise in Java, Python, and REST APIs with a deep understanding of business needs to deliver high-impact 
-analytics solutions. Recognized for clear communication, proactive problem-solving, and the ability to lead data-driven 
-projects from concept to execution in Agile environments.
+Strategic Data Analyst and SQL/Power BI Developer with a strong ability to translate complex data into clear, actionable insights that improve business performance. Skilled in designing and deploying interactive dashboards using Power BI, DAX, and SQL across the Microsoft data ecosystem (SSMS, SSIS, SSRS, SSAS). Experienced in developing efficient ETL workflows, ensuring data accuracy, and supporting data initiatives that align with organizational goals. Combines technical expertise in Java, Python, and REST APIs with a deep understanding of business needs to deliver high-impact analytics solutions. Recognized for clear communication, proactive problem-solving, and the ability to lead data-driven projects from concept to execution in Agile environments.
 
 * 🌍  I'm based in Dallas, Texas
-* ✉️  You can contact me at [fikruatalay@gmail.com](mailto:fikruatalay@gmail.com)
-* 🧠  I'm learning Neural networks
+* ✉️  You can contact me at [fcheklie@gmail.com](mailto:fikruatalay@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
